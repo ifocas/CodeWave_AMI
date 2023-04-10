@@ -1,7 +1,7 @@
 # A.M.I. 
 **Asitente Medico Integral**
 
-<a href="" target="_blank">Haz click aqui para ver la página (Falsa) "AMI"</a>
+<a href="" target="_blank">Haz click aqui para ver la página "AMI"</a>
 
 Es un trabajo grupal integrador Universitario; Creacion de una pagina web de salud llamado _AMI_ 
 Contiene el **Back-End**, **Base de Datos**, como el **Front-End**
