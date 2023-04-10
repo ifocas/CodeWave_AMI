@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeWave_AMI.Data\CodeWave_AMI.Data.csproj" />
+    <ProjectReference Include="..\CodeWave_AMI.Repository\CodeWave_AMI.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
