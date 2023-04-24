@@ -1,8 +1,13 @@
+using CodeWave_AMI.Data;
+using CodeWave_AMI.web;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
+
+//builder.Services.AddService(builder.Configuration);
 
 var app = builder.Build();
 
@@ -25,3 +30,5 @@ app.MapControllerRoute(
 app.MapFallbackToFile("index.html");
 
 app.Run();
+
+

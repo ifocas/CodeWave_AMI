@@ -27,6 +27,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CodeWave_AMI.Data\CodeWave_AMI.Data.csproj" />
     <ProjectReference Include="..\CodeWave_AMI.service\CodeWave_AMI.Service.csproj" />
+    <ProjectReference Include="..\CodeWave_AMI.ViewModels\CodeWave_AMI.ViewModels.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
