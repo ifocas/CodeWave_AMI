@@ -1,0 +1,69 @@
+# .NET Core
+bin/
+obj/
+
+# React JS
+node_modules/
+build/
+dist/
+
+# Visual Studio Code
+.vscode/
+
+# Mac files
+.DS_Store
+
+# NuGet
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.json
+*.nupkg
+*.config
+
+# NuGet Packages
+*.nupkg
+packages/
+*.pdb
+*.dll
+*.exe
+*.snk
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Ignore the output of Webpack during development
+webpack.config.js
+webpack.config.dev.js
+webpack.config.prod.js
+*.css.map
+*.js.map
