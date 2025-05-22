@@ -17,7 +17,7 @@ Hay implementaciones como por ejemplo:
 - Peticiones HTTP
 
 _Participantes:_
-- Alonso Leandro: https://github.com/Lenh22
+- Alonso Leandro:
 - Delfino Julieta: 
 - Focas Ignacio:
 - Gomez Leandro:
